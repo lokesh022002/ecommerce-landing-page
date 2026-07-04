@@ -109,4 +109,7 @@ html, body{
     background-size: cover;
     background-position: 23% 53%;
 }
+body {
+    overflow-x: hidden !important;
+}
 

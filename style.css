@@ -42,7 +42,7 @@ html, body{
 }
 
 #center{
-    width: 100%;
+    /*width: 100%;*/
     /*background-color: aquamarine;*/
     padding: 40px 80px;
 }
